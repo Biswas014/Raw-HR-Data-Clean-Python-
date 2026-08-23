@@ -9,7 +9,7 @@ Created a data cleaning project using Pandas and Numpy to transform a messy and 
 •	NumPy – Used along with Pandas to handle missing values 
 
 ## Dataset
-I used a 1000-row uncleaned HR dataset from GitHub, which was shared for practice purposes.
+I used 1000-rows HR dataset from GitHub, which includes details related to employees such as when they have joined the company, in which department they belong to, how much salaries they are paid, what are the performance scores they have got.
 
 **Source:** [Github](https://github.com/eyowhite/Messy-dataset/blob/main/messy_HR_data.csv)
 
