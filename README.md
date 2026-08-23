@@ -1,6 +1,6 @@
 # Cleaning Messy HR Data (Python)
 
-Created a data cleaning project using Pandas to transform a messy and inconsistent HR dataset into a clean dataset that is ready for further analysis.
+Created a data cleaning project using Pandas and Numpy to transform a messy and inconsistent HR dataset into a clean dataset that is ready for further analysis.
 
 ## Tech Stack Used
 •	Python – Programming language
@@ -8,8 +8,10 @@ Created a data cleaning project using Pandas to transform a messy and inconsiste
 •	Pandas – High-level library for data manipulation and cleaning
 •	NumPy – Used along with Pandas to handle missing values 
 
-## Data Source
+## Dataset
 I used a 1000-row uncleaned HR dataset from GitHub, which was shared for practice purposes.
+
+**Source:** [Github](https://github.com/eyowhite/Messy-dataset/blob/main/messy_HR_data.csv)
 
 ## Highlights
 ### Problem
@@ -30,7 +32,7 @@ The process I followed to clean this industry-level mini dataset:
 •	Converted columns to the appropriate data types.
 
 ### Data Analysis
-After cleaning the data, I performed some data analysis and solved interview-style questions, including:
+After cleaning the data, I performed some data analysis and solved business questions, including:
 •	Number of employees who joined each year.
 •	Employees working in the Finance department with salaries below the average salary.
 •	Employees working in the HR or Marketing department.
@@ -40,5 +42,5 @@ After cleaning the data, I performed some data analysis and solved interview-sty
 •	Gender with the highest average salary.
 
 ### Final Output
-Finally, I combined all the cleaning steps and generated a new cleaned CSV file, and loaded the cleaned dataset for ensuring the data quality of the cleaned file.
+Finally, I combined all the cleaning steps and generated a new cleaned CSV file and loaded the cleaned dataset for ensuring the data quality of the cleaned file.
 
